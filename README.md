@@ -47,6 +47,8 @@ Um relatório detalhado com as conclusões e recomendações pode ser encontrado
 
 ## Como Executar o Notebook
 
-Para replicar a análise, você pode abrir o notebook diretamente no Google Colab ou clonar este repositório e executá-lo em um ambiente Python com as bibliotecas necessárias instaladas (pandas, numpy, matplotlib, seaborn).
+Para replicar a análise, você pode abrir o notebook diretamente no Google Colab ou clonar este repositório e executá-lo em um ambiente Python com as bibliotecas necessárias instaladas.
 
 **Bibliotecas Necessárias:**
+
+pandas, numpy, matplotlib, seaborn
